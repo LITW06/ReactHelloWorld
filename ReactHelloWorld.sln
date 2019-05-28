@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactHelloWorld", "ReactHelloWorld\ReactHelloWorld.csproj", "{1D8EAC04-E96E-4A7D-87BE-F61C3293F813}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReactHelloWorld", "ReactHelloWorld\ReactHelloWorld.csproj", "{1D8EAC04-E96E-4A7D-87BE-F61C3293F813}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactHelloWorldActual", "ReactHelloWorldActual\ReactHelloWorldActual.csproj", "{E3BB6D07-1551-4E95-B2F4-A7966A87985E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{1D8EAC04-E96E-4A7D-87BE-F61C3293F813}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D8EAC04-E96E-4A7D-87BE-F61C3293F813}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D8EAC04-E96E-4A7D-87BE-F61C3293F813}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3BB6D07-1551-4E95-B2F4-A7966A87985E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3BB6D07-1551-4E95-B2F4-A7966A87985E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3BB6D07-1551-4E95-B2F4-A7966A87985E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3BB6D07-1551-4E95-B2F4-A7966A87985E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
